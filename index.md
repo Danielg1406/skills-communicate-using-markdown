@@ -7,3 +7,7 @@
 var myVar = "Hello, world!";
 console.log(myVar);
 ```
+- [x] Create my GitHub profile
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Dominate the virtual world
